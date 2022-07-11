@@ -1,0 +1,614 @@
+{
+    "version": "0.4",
+    "title": "Contact 2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": false,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "59dab23e",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "layout": "full_width",
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 700
+                },
+                "content_position": "bottom",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/9165d119dafe.jpg",
+                    "id": 652
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "2d8ae422",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "70",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7841b89e",
+                            "settings": {
+                                "title": "Multiple Maps",
+                                "size": "xxl",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 110
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5b11ba42",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "53d01e5b",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "a0c9bca",
+                            "settings": {
+                                "editor": "<p><b>La Taverna dei Quaranta<\/b><\/p>",
+                                "align": "center",
+                                "text_color": "#263238",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2d5ba575",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3e22832c",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "69a91be",
+                                            "settings": {
+                                                "editor": "<p>Nullam eleifend interdum nisi, id vehicula enim rhoncus sed. Pellentesque tincidunt mauris ut dignissim suscipit.<\/p>",
+                                                "align": "center",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_margin": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "4c9d5f66",
+                            "settings": {
+                                "gap": "narrow",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "662a6c6f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "53b445d5",
+                                            "settings": {
+                                                "editor": "<p><strong>Monday:<\/strong><br \/><strong>Tuesday:<\/strong><br \/><strong>Wednesday:<\/strong><br \/><strong>Thursday:<\/strong><br \/><strong>Friday:<\/strong><br \/><strong>Saturday:<\/strong><br \/><strong>Sunday:<\/strong><\/p>",
+                                                "align": "right",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6ab38ad9",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3adf4d8f",
+                                            "settings": {
+                                                "editor": "<p>9:30am - 3:00pm<br \/>9:30am - 9:00pm<br \/>9:30am - 9:00pm<br \/>9:30am - 9:00pm<br \/>9:30am - 9:30pm<br \/>9:30am - 9:30pm<br \/>9:30am - 8:00pm<\/p>",
+                                                "align": "left",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "73c0609",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "layout": "full_width",
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "65af1e9c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "45520154",
+                            "settings": {
+                                "address": "La Taverna dei Quaranta",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 500
+                                },
+                                "prevent_scroll": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "google_maps",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "50f58d24",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "63c73620",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "427675d0",
+                            "settings": {
+                                "editor": "<p><b>Ristobar La Sfinge<\/b><\/p>",
+                                "align": "center",
+                                "text_color": "#263238",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6258612a",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2521c31b",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6cb6c00f",
+                                            "settings": {
+                                                "editor": "<p>Nullam eleifend interdum nisi, id vehicula enim rhoncus sed. Pellentesque tincidunt mauris ut dignissim suscipit.<\/p>",
+                                                "align": "center",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_margin": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "70af2ed9",
+                            "settings": {
+                                "gap": "narrow",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "42cbf41f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "78834ae0",
+                                            "settings": {
+                                                "editor": "<p><strong>Monday:<\/strong><br \/><strong>Tuesday:<\/strong><br \/><strong>Wednesday:<\/strong><br \/><strong>Thursday:<\/strong><br \/><strong>Friday:<\/strong><br \/><strong>Saturday:<\/strong><br \/><strong>Sunday:<\/strong><\/p>",
+                                                "align": "right",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "53f6f968",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "41dcab61",
+                                            "settings": {
+                                                "editor": "<p>8:30am - 4:00pm<br \/>8:30am - 9:00pm<br \/>8:30am - 9:00pm<br \/>8:30am - 9:00pm<br \/>8:30am - 9:30pm<br \/>8:30am - 9:30pm<br \/>8:30am - 8:00pm<\/p>",
+                                                "align": "left",
+                                                "text_color": "#263238",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2cb106cd",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "layout": "full_width",
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "43c6b61d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "634820fb",
+                            "settings": {
+                                "address": "Ristobar La Sfinge",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 500
+                                },
+                                "prevent_scroll": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "google_maps",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

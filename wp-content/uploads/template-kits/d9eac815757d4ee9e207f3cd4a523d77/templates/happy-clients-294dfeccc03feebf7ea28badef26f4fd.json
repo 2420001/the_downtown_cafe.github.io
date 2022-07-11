@@ -1,0 +1,994 @@
+{
+    "version": "0.4",
+    "title": "Happy Clients",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": false,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "68b81f9d",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "layout": "full_width",
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 700
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/contacts-head-1.jpg",
+                    "id": 119
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 300
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#000000",
+                "background_overlay_color_b": "rgba(0,0,0,0.3)",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 20
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 0
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.69999999999999996
+                }
+            },
+            "elements": [
+                {
+                    "id": "7705e692",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "70",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "477cf4cb",
+                            "settings": {
+                                "title": "Happy Clients",
+                                "size": "xxl",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 110
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "603d75ac",
+            "settings": {
+                "gap": "extended",
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "12b853d4",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "53a85e00",
+                            "settings": {
+                                "testimonial_content": "Suspendisse consequat ante nec dapibus euismod. Donec semper leo massa, nec molestie odio laoreet a. Nullam quam nibh, volutpat eu ex ac, tristique bibendum augue. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author01.jpg",
+                                    "id": 167
+                                },
+                                "testimonial_name": "Silvia Wood",
+                                "testimonial_job": "Model",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "3fd6f10",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "533925f3",
+                            "settings": {
+                                "testimonial_content": "Mauris placerat sodales suscipit. Nam gravida tortor ac dui posuere, eget ultricies sem fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author02.jpg",
+                                    "id": 168
+                                },
+                                "testimonial_name": "Tomasz Heaton",
+                                "testimonial_job": "Blogger",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "5b81c8f8",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "52e29b46",
+                            "settings": {
+                                "testimonial_content": "Ridiculus mus. Proin tempor semper mauris, sit amet dictum sem rutrum quis. Phasellus congue laoreet nulla. Pellentesque aliquam elit ante, lacinia pretium tellus suscipit ultricies.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author03.jpg",
+                                    "id": 169
+                                },
+                                "testimonial_name": "Alessia Singh",
+                                "testimonial_job": "Designer",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                }
+            ],
+            "isInner": true,
+            "elType": "section"
+        },
+        {
+            "id": "3744a342",
+            "settings": {
+                "gap": "extended",
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#263238",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "70f0d7af",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2eee6566",
+                            "settings": {
+                                "testimonial_content": "Suspendisse consequat ante nec dapibus euismod. Donec semper leo massa, nec molestie odio laoreet a. Nullam quam nibh, volutpat eu ex ac, tristique bibendum augue. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author04.jpg",
+                                    "id": 170
+                                },
+                                "testimonial_name": "Hannah Dupont",
+                                "testimonial_job": "Model",
+                                "content_content_color": "#eceff1",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#ffffff",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#eceff1",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "21faaa44",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "76ac07c0",
+                            "settings": {
+                                "testimonial_content": "Mauris placerat sodales suscipit. Nam gravida tortor ac dui posuere, eget ultricies sem fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author07.jpg",
+                                    "id": 173
+                                },
+                                "testimonial_name": "Gianna Bravo",
+                                "testimonial_job": "Blogger",
+                                "content_content_color": "#eceff1",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#ffffff",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#eceff1",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "36e1f50",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "335ef649",
+                            "settings": {
+                                "testimonial_content": "Ridiculus mus. Proin tempor semper mauris, sit amet dictum sem rutrum quis. Phasellus congue laoreet nulla. Pellentesque aliquam elit ante, lacinia pretium tellus suscipit ultricies.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author06.jpg",
+                                    "id": 172
+                                },
+                                "testimonial_name": "Miya Finch",
+                                "testimonial_job": "Designer",
+                                "content_content_color": "#eceff1",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#ffffff",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#eceff1",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                }
+            ],
+            "isInner": true,
+            "elType": "section"
+        },
+        {
+            "id": "32885316",
+            "settings": {
+                "gap": "extended",
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "10791c84",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "12743d85",
+                            "settings": {
+                                "testimonial_content": "Suspendisse consequat ante nec dapibus euismod. Donec semper leo massa, nec molestie odio laoreet a. Nullam quam nibh, volutpat eu ex ac, tristique bibendum augue. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author08.jpg",
+                                    "id": 174
+                                },
+                                "testimonial_name": "Clarice Stuart",
+                                "testimonial_job": "Model",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "37904251",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6ab02bf",
+                            "settings": {
+                                "testimonial_content": "Mauris placerat sodales suscipit. Nam gravida tortor ac dui posuere, eget ultricies sem fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur. ",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author10.jpg",
+                                    "id": 176
+                                },
+                                "testimonial_name": "Hakim Callahan",
+                                "testimonial_job": "Blogger",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "69e08bdf",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "523a159b",
+                            "settings": {
+                                "testimonial_content": "Ridiculus mus. Proin tempor semper mauris, sit amet dictum sem rutrum quis. Phasellus congue laoreet nulla. Pellentesque aliquam elit ante, lacinia pretium tellus suscipit ultricies.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/author05.jpg",
+                                    "id": 171
+                                },
+                                "testimonial_name": "Lila Braun",
+                                "testimonial_job": "Designer",
+                                "content_content_color": "#263238",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "name_text_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Open Sans",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "name_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "job_text_color": "#263238",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Open Sans",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "job_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                }
+            ],
+            "isInner": true,
+            "elType": "section"
+        },
+        {
+            "id": "38fbb89a",
+            "settings": {
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 500
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/6ecef00dcbb8.jpg",
+                    "id": 677
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#000000",
+                "background_overlay_color_b": "rgba(0,0,0,0.3)",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 20
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.69999999999999996
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 300
+                }
+            },
+            "elements": [
+                {
+                    "id": "2f1f2cd3",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "17fb1452",
+                            "settings": {
+                                "title": "Want to Reserve a Table?",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 120
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 120
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 110
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 60
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4805d34b",
+                            "settings": {
+                                "title": "1-541-754-3010",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 45
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 50
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4a0ded32",
+                            "settings": {
+                                "title": "\n",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 110
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

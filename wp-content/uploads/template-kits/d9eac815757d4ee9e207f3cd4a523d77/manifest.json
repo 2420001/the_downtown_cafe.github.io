@@ -1,0 +1,282 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Italian Restaurant",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-6b9f06b474c0b095ae0714ee9862c6d4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-a2c86c6ae4b3c468577646b27847472e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-da2a82538db557561220d0dce0dcb18a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-c0efd924d9dd91fe68f30d1b99a4aff6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5-21701c9a968851c9e04cb11da68eec8e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-6dda6a76360293ac7be9b803cd561ae4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-9dbd447c1eb797391cae65e9d89dc48c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 3",
+            "screenshot": "screenshots\/about-3.jpg",
+            "source": "templates\/about-3-ae5cc5d59adc8ef3fec0c3dacb4e0f12.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Food Delivery",
+            "screenshot": "screenshots\/food-delivery.jpg",
+            "source": "templates\/food-delivery-f1c986c22e57b68abe34d1aea1d09c43.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Happy Clients",
+            "screenshot": "screenshots\/happy-clients.jpg",
+            "source": "templates\/happy-clients-294dfeccc03feebf7ea28badef26f4fd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 1",
+            "screenshot": "screenshots\/menu-1.jpg",
+            "source": "templates\/menu-1-0fa8812aab6ac03eb1ebd7f608e64c02.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 2",
+            "screenshot": "screenshots\/menu-2.jpg",
+            "source": "templates\/menu-2-cf758bd338def792f4f8736d9dfe7895.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 3",
+            "screenshot": "screenshots\/menu-3.jpg",
+            "source": "templates\/menu-3-598df126587def2259a394a3089102c1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu Wine",
+            "screenshot": "screenshots\/menu-wine.jpg",
+            "source": "templates\/menu-wine-ce49161451aa1a6c529ca4a1a12fea23.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Chefs",
+            "screenshot": "screenshots\/our-chefs.jpg",
+            "source": "templates\/our-chefs-b47b1c493f47246bce2539b67c69c946.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services-6c7e1ec83f564f84d9e6f84c38d98cb6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Page 1",
+            "screenshot": "screenshots\/product-page-1.jpg",
+            "source": "templates\/product-page-1-307d405b07132b8e3f282ec7184f8c40.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Page 2",
+            "screenshot": "screenshots\/product-page-2.jpg",
+            "source": "templates\/product-page-2-a3acf3ee21387e941c6ec94473a83851.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-1166d0060e3837260b8b301296234e04.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-aa2acddda00bc4b57fcba4379ad8a9cd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-8258b0dc5ce57aafdc5550e333fb36d5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

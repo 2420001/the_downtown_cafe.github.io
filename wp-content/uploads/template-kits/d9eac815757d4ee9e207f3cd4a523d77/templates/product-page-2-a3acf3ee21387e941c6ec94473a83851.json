@@ -1,0 +1,963 @@
+{
+    "version": "0.4",
+    "title": "Product Page 2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": false,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "67b1d0f5",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 700
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/coockies_land02.jpg",
+                    "id": 97
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#000000",
+                "background_overlay_color_b": "rgba(0,0,0,0.3)",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 20
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 0
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.69999999999999996
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 400
+                }
+            },
+            "elements": [
+                {
+                    "id": "781b2b81",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "7281cfca",
+                            "settings": {
+                                "title": "Light Cookies",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 110
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 90
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "ddb0cab",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "layout": "full_width",
+                "gap": "no",
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "717b1207",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "background_background": "classic",
+                        "background_color": "#263238"
+                    },
+                    "elements": [
+                        {
+                            "id": "13b6a26c",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 97,
+                                        "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/coockies_land02.jpg"
+                                    },
+                                    {
+                                        "id": 841,
+                                        "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/cookies_gallery02.jpg"
+                                    },
+                                    {
+                                        "id": 840,
+                                        "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/cookies_gallery01.jpg"
+                                    },
+                                    {
+                                        "id": 842,
+                                        "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/photo-1436564989038-18b9958df72b.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "large",
+                                "slides_to_show": "1",
+                                "slides_to_scroll": "1",
+                                "navigation": "arrows",
+                                "arrows_size": {
+                                    "unit": "px",
+                                    "size": 43
+                                },
+                                "image_border_color": "#ffffff",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "slides_to_show_tablet": "2",
+                                "image_stretch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1aa68a9c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_color": "#eceff1",
+                        "padding": {
+                            "unit": "%",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100,
+                        "content_position": "center",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "10",
+                            "bottom": "30",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "407d530b",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "66730a3b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 75,
+                                        "_inline_size_mobile": 75
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "e123a50",
+                                            "settings": {
+                                                "title": "Light Cookies\u200b",
+                                                "title_color": "#000000",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30
+                                                },
+                                                "typography_font_weight": "700",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 40
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "109523c2",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 24.963999999999999,
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6d2f39d0",
+                                            "settings": {
+                                                "title": "$9.99",
+                                                "align": "right",
+                                                "title_color": "#f44336",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30
+                                                },
+                                                "typography_font_weight": "700",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 40
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "3f99d4cb",
+                            "settings": {
+                                "editor": "<p>Sed vulputate est non dapibus viverra. Fusce elementum non orci eu iaculis. Morbi non quam justo. In maximus ac mauris dictum tristique. In imperdiet ac nisi ac lacinia. Nulla quis nisl eu leo egestas accumsan ac eget orci. Aliquam ultrices nibh pharetra nisl porta, vitae imperdiet magna rutrum. Proin vestibulum nunc vel ligula ultrices molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus et ligula at nisl ultrices ullamcorper. In pharetra leo nec ipsum vulputate gravida id sit amet magna. Integer quis arcu nibh.<\/p><p>Proin congue consequat nisl, in volutpat risus. Vestibulum vel pretium neque. Maecenas ex augue, vestibulum in auctor ornare, viverra nec augue. Phasellus blandit tortor a venenatis aliquam. Praesent fringilla velit nec risus vestibulum ultricies. Nam quis purus nibh. Sed posuere tortor tortor, eget tempor nibh sodales sed. In non sem.<\/p>",
+                                "text_color": "#263238",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "align": "justify"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "24c7d33e",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/06\/bg_grey.jpg",
+                    "id": 78
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#000000",
+                "background_overlay_color_b": "rgba(0,0,0,0.5)",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 20
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.80000000000000004
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "52c2d276",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "75640067",
+                            "settings": {
+                                "title": "Related Products",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Amatic SC",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 90
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "#000000"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 70
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "20e02ad6",
+                            "settings": {
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "54538305",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "40",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "43561ba5",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/d2be8b1e70cd.jpg",
+                                                    "id": 686
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "500",
+                                                    "height": "500"
+                                                },
+                                                "space": {
+                                                    "unit": "%",
+                                                    "size": 80
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "51bf6c6a",
+                                            "settings": {
+                                                "title": "Zuppa e Salsa",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-5",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "e4ef4b7",
+                                            "settings": {
+                                                "title": "$9.99",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#f44336",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-10",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "typography_font_weight": "700",
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "79e76503",
+                                            "settings": {
+                                                "editor": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage.",
+                                                "text_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-13",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4bc4be01",
+                                            "settings": {
+                                                "text": "Details",
+                                                "align": "center",
+                                                "background_color": "#f44336",
+                                                "size": "md",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_weight": "700",
+                                                "typography_text_transform": "uppercase",
+                                                "button_text_color": "#ffffff",
+                                                "hover_color": "#ffffff",
+                                                "button_background_hover_color": "#d32f2f",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "513972d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "40",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "59473bf4",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/0b9de5a055f0.jpg",
+                                                    "id": 710
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "500",
+                                                    "height": "500"
+                                                },
+                                                "space": {
+                                                    "unit": "%",
+                                                    "size": 80
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5d9dacef",
+                                            "settings": {
+                                                "title": "Verdura",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-5",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d98bfa6",
+                                            "settings": {
+                                                "title": "$17.99",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#f44336",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-10",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "typography_font_weight": "700"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4251ec9b",
+                                            "settings": {
+                                                "editor": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage.",
+                                                "text_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-13",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "38f914c7",
+                                            "settings": {
+                                                "text": "Details",
+                                                "align": "center",
+                                                "background_color": "#f44336",
+                                                "size": "md",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_weight": "700",
+                                                "typography_text_transform": "uppercase",
+                                                "button_text_color": "#ffffff",
+                                                "hover_color": "#ffffff",
+                                                "button_background_hover_color": "#d32f2f",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "f19c72f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2e153c26",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/wp.envatoextensions.com\/collection-44\/wp-content\/uploads\/sites\/47\/2018\/07\/c8fd9a32b7a2.jpg",
+                                                    "id": 711
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "500",
+                                                    "height": "500"
+                                                },
+                                                "space": {
+                                                    "unit": "%",
+                                                    "size": 80
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7a98a94b",
+                                            "settings": {
+                                                "title": "Fish di Mare",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-5",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5c02dd7c",
+                                            "settings": {
+                                                "title": "$23.99",
+                                                "header_size": "h3",
+                                                "align": "center",
+                                                "title_color": "#f44336",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-10",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "typography_font_weight": "700"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "798368c2",
+                                            "settings": {
+                                                "editor": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage.",
+                                                "text_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Open Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 26
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-13",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d3d1275",
+                                            "settings": {
+                                                "text": "Details",
+                                                "align": "center",
+                                                "background_color": "#f44336",
+                                                "size": "md",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "News Cycle",
+                                                "typography_font_weight": "700",
+                                                "typography_text_transform": "uppercase",
+                                                "button_text_color": "#ffffff",
+                                                "hover_color": "#ffffff",
+                                                "button_background_hover_color": "#d32f2f",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

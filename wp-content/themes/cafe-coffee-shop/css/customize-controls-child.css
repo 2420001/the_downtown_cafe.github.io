@@ -1,0 +1,13 @@
+a.button.button-secondary.alignright {
+    color: #fff !important;
+    background: #b89d64 !important;
+    font-size: 14px;
+    margin: -5px !important;
+    border-radius: 0 !important;
+    border: none !important;
+    box-shadow: 2px 2px 0px 0px #fff !important;
+}
+#accordion-section-cafe_coffee_shop_upgrade_pro_link h3.accordion-section-title, #accordion-section-cafe_coffee_shop_get_started_link h3.accordion-section-title {
+    background: #311f15 !important;
+    color: #fff !important;
+}
